@@ -86,7 +86,7 @@
         @click.stop="app.drawer = !app.drawer"
       ></v-app-bar-nav-icon>
 
-      <v-toolbar-title>Vue Blog</v-toolbar-title>
+      <v-toolbar-title>vue example</v-toolbar-title>
 
       <v-spacer></v-spacer>
 
